@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "1",
+    "user": "Admin"
+  },
+  {
+    "ID": "2",
+    "user": "Bob"
+  },
+  {
+    "ID": "3",
+    "user": "Tom"
+  },
+  {
+    "ID": "4",
+    "user": "Harry"
+  }
+]
